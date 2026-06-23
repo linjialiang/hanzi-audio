@@ -1,0 +1,2002 @@
+{
+  "一": {
+    "pinyin": "yī",
+    "file": "mp3/一_yī.mp3"
+  },
+  "七": {
+    "pinyin": "qī",
+    "file": "mp3/七_qī.mp3"
+  },
+  "万": {
+    "pinyin": "wàn",
+    "file": "mp3/万_wàn.mp3"
+  },
+  "丈": {
+    "pinyin": "zhàng",
+    "file": "mp3/丈_zhàng.mp3"
+  },
+  "三": {
+    "pinyin": "sān",
+    "file": "mp3/三_sān.mp3"
+  },
+  "上": {
+    "pinyin": "shàng",
+    "file": "mp3/上_shàng.mp3"
+  },
+  "下": {
+    "pinyin": "xià",
+    "file": "mp3/下_xià.mp3"
+  },
+  "不": {
+    "pinyin": "bù",
+    "file": "mp3/不_bù.mp3"
+  },
+  "丘": {
+    "pinyin": "qiū",
+    "file": "mp3/丘_qiū.mp3"
+  },
+  "东": {
+    "pinyin": "dōng",
+    "file": "mp3/东_dōng.mp3"
+  },
+  "中": {
+    "pinyin": "zhōng",
+    "file": "mp3/中_zhōng.mp3"
+  },
+  "丰": {
+    "pinyin": "fēng",
+    "file": "mp3/丰_fēng.mp3"
+  },
+  "丸": {
+    "pinyin": "wán",
+    "file": "mp3/丸_wán.mp3"
+  },
+  "举": {
+    "pinyin": "jǔ",
+    "file": "mp3/举_jǔ.mp3"
+  },
+  "久": {
+    "pinyin": "jiǔ",
+    "file": "mp3/久_jiǔ.mp3"
+  },
+  "么": {
+    "pinyin": "me",
+    "file": "mp3/么_me.mp3"
+  },
+  "义": {
+    "pinyin": "yì",
+    "file": "mp3/义_yì.mp3"
+  },
+  "之": {
+    "pinyin": "zhī",
+    "file": "mp3/之_zhī.mp3"
+  },
+  "乌": {
+    "pinyin": "wū",
+    "file": "mp3/乌_wū.mp3"
+  },
+  "九": {
+    "pinyin": "jiǔ",
+    "file": "mp3/九_jiǔ.mp3"
+  },
+  "乞": {
+    "pinyin": "qǐ",
+    "file": "mp3/乞_qǐ.mp3"
+  },
+  "也": {
+    "pinyin": "yě",
+    "file": "mp3/也_yě.mp3"
+  },
+  "乡": {
+    "pinyin": "xiāng",
+    "file": "mp3/乡_xiāng.mp3"
+  },
+  "书": {
+    "pinyin": "shū",
+    "file": "mp3/书_shū.mp3"
+  },
+  "了": {
+    "pinyin": "le",
+    "file": "mp3/了_le.mp3"
+  },
+  "二": {
+    "pinyin": "èr",
+    "file": "mp3/二_èr.mp3"
+  },
+  "于": {
+    "pinyin": "yú",
+    "file": "mp3/于_yú.mp3"
+  },
+  "云": {
+    "pinyin": "yún",
+    "file": "mp3/云_yún.mp3"
+  },
+  "五": {
+    "pinyin": "wǔ",
+    "file": "mp3/五_wǔ.mp3"
+  },
+  "井": {
+    "pinyin": "jǐng",
+    "file": "mp3/井_jǐng.mp3"
+  },
+  "亭": {
+    "pinyin": "tíng",
+    "file": "mp3/亭_tíng.mp3"
+  },
+  "人": {
+    "pinyin": "rén",
+    "file": "mp3/人_rén.mp3"
+  },
+  "亿": {
+    "pinyin": "yì",
+    "file": "mp3/亿_yì.mp3"
+  },
+  "从": {
+    "pinyin": "cóng",
+    "file": "mp3/从_cóng.mp3"
+  },
+  "他": {
+    "pinyin": "tā",
+    "file": "mp3/他_tā.mp3"
+  },
+  "仲": {
+    "pinyin": "zhòng",
+    "file": "mp3/仲_zhòng.mp3"
+  },
+  "会": {
+    "pinyin": "huì",
+    "file": "mp3/会_huì.mp3"
+  },
+  "伞": {
+    "pinyin": "sǎn",
+    "file": "mp3/伞_sǎn.mp3"
+  },
+  "体": {
+    "pinyin": "tǐ",
+    "file": "mp3/体_tǐ.mp3"
+  },
+  "侧": {
+    "pinyin": "cè",
+    "file": "mp3/侧_cè.mp3"
+  },
+  "做": {
+    "pinyin": "zuò",
+    "file": "mp3/做_zuò.mp3"
+  },
+  "儿": {
+    "pinyin": "ér",
+    "file": "mp3/儿_ér.mp3"
+  },
+  "光": {
+    "pinyin": "guāng",
+    "file": "mp3/光_guāng.mp3"
+  },
+  "兔": {
+    "pinyin": "tù",
+    "file": "mp3/兔_tù.mp3"
+  },
+  "八": {
+    "pinyin": "bā",
+    "file": "mp3/八_bā.mp3"
+  },
+  "六": {
+    "pinyin": "liù",
+    "file": "mp3/六_liù.mp3"
+  },
+  "兰": {
+    "pinyin": "lán",
+    "file": "mp3/兰_lán.mp3"
+  },
+  "典": {
+    "pinyin": "diǎn",
+    "file": "mp3/典_diǎn.mp3"
+  },
+  "内": {
+    "pinyin": "nèi",
+    "file": "mp3/内_nèi.mp3"
+  },
+  "册": {
+    "pinyin": "cè",
+    "file": "mp3/册_cè.mp3"
+  },
+  "冬": {
+    "pinyin": "dōng",
+    "file": "mp3/冬_dōng.mp3"
+  },
+  "冰": {
+    "pinyin": "bīng",
+    "file": "mp3/冰_bīng.mp3"
+  },
+  "冷": {
+    "pinyin": "lěng",
+    "file": "mp3/冷_lěng.mp3"
+  },
+  "冻": {
+    "pinyin": "dòng",
+    "file": "mp3/冻_dòng.mp3"
+  },
+  "净": {
+    "pinyin": "jìng",
+    "file": "mp3/净_jìng.mp3"
+  },
+  "准": {
+    "pinyin": "zhǔn",
+    "file": "mp3/准_zhǔn.mp3"
+  },
+  "凉": {
+    "pinyin": "liáng",
+    "file": "mp3/凉_liáng.mp3"
+  },
+  "凡": {
+    "pinyin": "fán",
+    "file": "mp3/凡_fán.mp3"
+  },
+  "凤": {
+    "pinyin": "fèng",
+    "file": "mp3/凤_fèng.mp3"
+  },
+  "凰": {
+    "pinyin": "huáng",
+    "file": "mp3/凰_huáng.mp3"
+  },
+  "凳": {
+    "pinyin": "dèng",
+    "file": "mp3/凳_dèng.mp3"
+  },
+  "刀": {
+    "pinyin": "dāo",
+    "file": "mp3/刀_dāo.mp3"
+  },
+  "分": {
+    "pinyin": "fēn",
+    "file": "mp3/分_fēn.mp3"
+  },
+  "利": {
+    "pinyin": "lì",
+    "file": "mp3/利_lì.mp3"
+  },
+  "到": {
+    "pinyin": "dào",
+    "file": "mp3/到_dào.mp3"
+  },
+  "刻": {
+    "pinyin": "kè",
+    "file": "mp3/刻_kè.mp3"
+  },
+  "剑": {
+    "pinyin": "jiàn",
+    "file": "mp3/剑_jiàn.mp3"
+  },
+  "力": {
+    "pinyin": "lì",
+    "file": "mp3/力_lì.mp3"
+  },
+  "勺": {
+    "pinyin": "sháo",
+    "file": "mp3/勺_sháo.mp3"
+  },
+  "北": {
+    "pinyin": "běi",
+    "file": "mp3/北_běi.mp3"
+  },
+  "十": {
+    "pinyin": "shí",
+    "file": "mp3/十_shí.mp3"
+  },
+  "千": {
+    "pinyin": "qiān",
+    "file": "mp3/千_qiān.mp3"
+  },
+  "午": {
+    "pinyin": "wǔ",
+    "file": "mp3/午_wǔ.mp3"
+  },
+  "南": {
+    "pinyin": "nán",
+    "file": "mp3/南_nán.mp3"
+  },
+  "卷": {
+    "pinyin": "juàn",
+    "file": "mp3/卷_juàn.mp3"
+  },
+  "原": {
+    "pinyin": "yuán",
+    "file": "mp3/原_yuán.mp3"
+  },
+  "去": {
+    "pinyin": "qù",
+    "file": "mp3/去_qù.mp3"
+  },
+  "及": {
+    "pinyin": "jí",
+    "file": "mp3/及_jí.mp3"
+  },
+  "友": {
+    "pinyin": "yǒu",
+    "file": "mp3/友_yǒu.mp3"
+  },
+  "双": {
+    "pinyin": "shuāng",
+    "file": "mp3/双_shuāng.mp3"
+  },
+  "发": {
+    "pinyin": "fā",
+    "file": "mp3/发_fā.mp3"
+  },
+  "口": {
+    "pinyin": "kǒu",
+    "file": "mp3/口_kǒu.mp3"
+  },
+  "台": {
+    "pinyin": "tái",
+    "file": "mp3/台_tái.mp3"
+  },
+  "右": {
+    "pinyin": "yòu",
+    "file": "mp3/右_yòu.mp3"
+  },
+  "叶": {
+    "pinyin": "yè",
+    "file": "mp3/叶_yè.mp3"
+  },
+  "吃": {
+    "pinyin": "chī",
+    "file": "mp3/吃_chī.mp3"
+  },
+  "周": {
+    "pinyin": "zhōu",
+    "file": "mp3/周_zhōu.mp3"
+  },
+  "和": {
+    "pinyin": "hé",
+    "file": "mp3/和_hé.mp3"
+  },
+  "喝": {
+    "pinyin": "hē",
+    "file": "mp3/喝_hē.mp3"
+  },
+  "四": {
+    "pinyin": "sì",
+    "file": "mp3/四_sì.mp3"
+  },
+  "回": {
+    "pinyin": "huí",
+    "file": "mp3/回_huí.mp3"
+  },
+  "园": {
+    "pinyin": "yuán",
+    "file": "mp3/园_yuán.mp3"
+  },
+  "圆": {
+    "pinyin": "yuán",
+    "file": "mp3/圆_yuán.mp3"
+  },
+  "土": {
+    "pinyin": "tǔ",
+    "file": "mp3/土_tǔ.mp3"
+  },
+  "在": {
+    "pinyin": "zài",
+    "file": "mp3/在_zài.mp3"
+  },
+  "地": {
+    "pinyin": "dì",
+    "file": "mp3/地_dì.mp3"
+  },
+  "坐": {
+    "pinyin": "zuò",
+    "file": "mp3/坐_zuò.mp3"
+  },
+  "坡": {
+    "pinyin": "pō",
+    "file": "mp3/坡_pō.mp3"
+  },
+  "坯": {
+    "pinyin": "pī",
+    "file": "mp3/坯_pī.mp3"
+  },
+  "垒": {
+    "pinyin": "lěi",
+    "file": "mp3/垒_lěi.mp3"
+  },
+  "垦": {
+    "pinyin": "kěn",
+    "file": "mp3/垦_kěn.mp3"
+  },
+  "城": {
+    "pinyin": "chéng",
+    "file": "mp3/城_chéng.mp3"
+  },
+  "塔": {
+    "pinyin": "tǎ",
+    "file": "mp3/塔_tǎ.mp3"
+  },
+  "塘": {
+    "pinyin": "táng",
+    "file": "mp3/塘_táng.mp3"
+  },
+  "墙": {
+    "pinyin": "qiáng",
+    "file": "mp3/墙_qiáng.mp3"
+  },
+  "墨": {
+    "pinyin": "mò",
+    "file": "mp3/墨_mò.mp3"
+  },
+  "士": {
+    "pinyin": "shì",
+    "file": "mp3/士_shì.mp3"
+  },
+  "声": {
+    "pinyin": "shēng",
+    "file": "mp3/声_shēng.mp3"
+  },
+  "壶": {
+    "pinyin": "hú",
+    "file": "mp3/壶_hú.mp3"
+  },
+  "夏": {
+    "pinyin": "xià",
+    "file": "mp3/夏_xià.mp3"
+  },
+  "夕": {
+    "pinyin": "xī",
+    "file": "mp3/夕_xī.mp3"
+  },
+  "外": {
+    "pinyin": "wài",
+    "file": "mp3/外_wài.mp3"
+  },
+  "多": {
+    "pinyin": "duō",
+    "file": "mp3/多_duō.mp3"
+  },
+  "夜": {
+    "pinyin": "yè",
+    "file": "mp3/夜_yè.mp3"
+  },
+  "大": {
+    "pinyin": "dà",
+    "file": "mp3/大_dà.mp3"
+  },
+  "天": {
+    "pinyin": "tiān",
+    "file": "mp3/天_tiān.mp3"
+  },
+  "夫": {
+    "pinyin": "fū",
+    "file": "mp3/夫_fū.mp3"
+  },
+  "头": {
+    "pinyin": "tóu",
+    "file": "mp3/头_tóu.mp3"
+  },
+  "女": {
+    "pinyin": "nǚ",
+    "file": "mp3/女_nǚ.mp3"
+  },
+  "她": {
+    "pinyin": "tā",
+    "file": "mp3/她_tā.mp3"
+  },
+  "好": {
+    "pinyin": "hǎo",
+    "file": "mp3/好_hǎo.mp3"
+  },
+  "姜": {
+    "pinyin": "jiāng",
+    "file": "mp3/姜_jiāng.mp3"
+  },
+  "子": {
+    "pinyin": "zǐ",
+    "file": "mp3/子_zǐ.mp3"
+  },
+  "存": {
+    "pinyin": "cún",
+    "file": "mp3/存_cún.mp3"
+  },
+  "孟": {
+    "pinyin": "mèng",
+    "file": "mp3/孟_mèng.mp3"
+  },
+  "季": {
+    "pinyin": "jì",
+    "file": "mp3/季_jì.mp3"
+  },
+  "学": {
+    "pinyin": "xué",
+    "file": "mp3/学_xué.mp3"
+  },
+  "宇": {
+    "pinyin": "yǔ",
+    "file": "mp3/宇_yǔ.mp3"
+  },
+  "宙": {
+    "pinyin": "zhòu",
+    "file": "mp3/宙_zhòu.mp3"
+  },
+  "宫": {
+    "pinyin": "gōng",
+    "file": "mp3/宫_gōng.mp3"
+  },
+  "宵": {
+    "pinyin": "xiāo",
+    "file": "mp3/宵_xiāo.mp3"
+  },
+  "家": {
+    "pinyin": "jiā",
+    "file": "mp3/家_jiā.mp3"
+  },
+  "宿": {
+    "pinyin": "sù",
+    "file": "mp3/宿_sù.mp3"
+  },
+  "寒": {
+    "pinyin": "hán",
+    "file": "mp3/寒_hán.mp3"
+  },
+  "寸": {
+    "pinyin": "cùn",
+    "file": "mp3/寸_cùn.mp3"
+  },
+  "对": {
+    "pinyin": "duì",
+    "file": "mp3/对_duì.mp3"
+  },
+  "寺": {
+    "pinyin": "sì",
+    "file": "mp3/寺_sì.mp3"
+  },
+  "小": {
+    "pinyin": "xiǎo",
+    "file": "mp3/小_xiǎo.mp3"
+  },
+  "少": {
+    "pinyin": "shǎo",
+    "file": "mp3/少_shǎo.mp3"
+  },
+  "尘": {
+    "pinyin": "chén",
+    "file": "mp3/尘_chén.mp3"
+  },
+  "尺": {
+    "pinyin": "chǐ",
+    "file": "mp3/尺_chǐ.mp3"
+  },
+  "层": {
+    "pinyin": "céng",
+    "file": "mp3/层_céng.mp3"
+  },
+  "屋": {
+    "pinyin": "wū",
+    "file": "mp3/屋_wū.mp3"
+  },
+  "山": {
+    "pinyin": "shān",
+    "file": "mp3/山_shān.mp3"
+  },
+  "岁": {
+    "pinyin": "suì",
+    "file": "mp3/岁_suì.mp3"
+  },
+  "岗": {
+    "pinyin": "gǎng",
+    "file": "mp3/岗_gǎng.mp3"
+  },
+  "岩": {
+    "pinyin": "yán",
+    "file": "mp3/岩_yán.mp3"
+  },
+  "岭": {
+    "pinyin": "lǐng",
+    "file": "mp3/岭_lǐng.mp3"
+  },
+  "峰": {
+    "pinyin": "fēng",
+    "file": "mp3/峰_fēng.mp3"
+  },
+  "崖": {
+    "pinyin": "yá",
+    "file": "mp3/崖_yá.mp3"
+  },
+  "川": {
+    "pinyin": "chuān",
+    "file": "mp3/川_chuān.mp3"
+  },
+  "工": {
+    "pinyin": "gōng",
+    "file": "mp3/工_gōng.mp3"
+  },
+  "左": {
+    "pinyin": "zuǒ",
+    "file": "mp3/左_zuǒ.mp3"
+  },
+  "己": {
+    "pinyin": "jǐ",
+    "file": "mp3/己_jǐ.mp3"
+  },
+  "已": {
+    "pinyin": "yǐ",
+    "file": "mp3/已_yǐ.mp3"
+  },
+  "巳": {
+    "pinyin": "sì",
+    "file": "mp3/巳_sì.mp3"
+  },
+  "巾": {
+    "pinyin": "jīn",
+    "file": "mp3/巾_jīn.mp3"
+  },
+  "帆": {
+    "pinyin": "fān",
+    "file": "mp3/帆_fān.mp3"
+  },
+  "帐": {
+    "pinyin": "zhàng",
+    "file": "mp3/帐_zhàng.mp3"
+  },
+  "幕": {
+    "pinyin": "mù",
+    "file": "mp3/幕_mù.mp3"
+  },
+  "干": {
+    "pinyin": "gàn",
+    "file": "mp3/干_gàn.mp3"
+  },
+  "年": {
+    "pinyin": "nián",
+    "file": "mp3/年_nián.mp3"
+  },
+  "幼": {
+    "pinyin": "yòu",
+    "file": "mp3/幼_yòu.mp3"
+  },
+  "庄": {
+    "pinyin": "zhuāng",
+    "file": "mp3/庄_zhuāng.mp3"
+  },
+  "床": {
+    "pinyin": "chuáng",
+    "file": "mp3/床_chuáng.mp3"
+  },
+  "庙": {
+    "pinyin": "miào",
+    "file": "mp3/庙_miào.mp3"
+  },
+  "开": {
+    "pinyin": "kāi",
+    "file": "mp3/开_kāi.mp3"
+  },
+  "弓": {
+    "pinyin": "gōng",
+    "file": "mp3/弓_gōng.mp3"
+  },
+  "彩": {
+    "pinyin": "cǎi",
+    "file": "mp3/彩_cǎi.mp3"
+  },
+  "很": {
+    "pinyin": "hěn",
+    "file": "mp3/很_hěn.mp3"
+  },
+  "心": {
+    "pinyin": "xīn",
+    "file": "mp3/心_xīn.mp3"
+  },
+  "快": {
+    "pinyin": "kuài",
+    "file": "mp3/快_kuài.mp3"
+  },
+  "想": {
+    "pinyin": "xiǎng",
+    "file": "mp3/想_xiǎng.mp3"
+  },
+  "慢": {
+    "pinyin": "màn",
+    "file": "mp3/慢_màn.mp3"
+  },
+  "我": {
+    "pinyin": "wǒ",
+    "file": "mp3/我_wǒ.mp3"
+  },
+  "房": {
+    "pinyin": "fáng",
+    "file": "mp3/房_fáng.mp3"
+  },
+  "扇": {
+    "pinyin": "shàn",
+    "file": "mp3/扇_shàn.mp3"
+  },
+  "手": {
+    "pinyin": "shǒu",
+    "file": "mp3/手_shǒu.mp3"
+  },
+  "才": {
+    "pinyin": "cái",
+    "file": "mp3/才_cái.mp3"
+  },
+  "打": {
+    "pinyin": "dǎ",
+    "file": "mp3/打_dǎ.mp3"
+  },
+  "找": {
+    "pinyin": "zhǎo",
+    "file": "mp3/找_zhǎo.mp3"
+  },
+  "抱": {
+    "pinyin": "bào",
+    "file": "mp3/抱_bào.mp3"
+  },
+  "拉": {
+    "pinyin": "lā",
+    "file": "mp3/拉_lā.mp3"
+  },
+  "拿": {
+    "pinyin": "ná",
+    "file": "mp3/拿_ná.mp3"
+  },
+  "指": {
+    "pinyin": "zhǐ",
+    "file": "mp3/指_zhǐ.mp3"
+  },
+  "按": {
+    "pinyin": "àn",
+    "file": "mp3/按_àn.mp3"
+  },
+  "掌": {
+    "pinyin": "zhǎng",
+    "file": "mp3/掌_zhǎng.mp3"
+  },
+  "推": {
+    "pinyin": "tuī",
+    "file": "mp3/推_tuī.mp3"
+  },
+  "提": {
+    "pinyin": "tí",
+    "file": "mp3/提_tí.mp3"
+  },
+  "放": {
+    "pinyin": "fàng",
+    "file": "mp3/放_fàng.mp3"
+  },
+  "斤": {
+    "pinyin": "jīn",
+    "file": "mp3/斤_jīn.mp3"
+  },
+  "斧": {
+    "pinyin": "fǔ",
+    "file": "mp3/斧_fǔ.mp3"
+  },
+  "方": {
+    "pinyin": "fāng",
+    "file": "mp3/方_fāng.mp3"
+  },
+  "旁": {
+    "pinyin": "páng",
+    "file": "mp3/旁_páng.mp3"
+  },
+  "日": {
+    "pinyin": "rì",
+    "file": "mp3/日_rì.mp3"
+  },
+  "旦": {
+    "pinyin": "dàn",
+    "file": "mp3/旦_dàn.mp3"
+  },
+  "早": {
+    "pinyin": "zǎo",
+    "file": "mp3/早_zǎo.mp3"
+  },
+  "旬": {
+    "pinyin": "xún",
+    "file": "mp3/旬_xún.mp3"
+  },
+  "时": {
+    "pinyin": "shí",
+    "file": "mp3/时_shí.mp3"
+  },
+  "明": {
+    "pinyin": "míng",
+    "file": "mp3/明_míng.mp3"
+  },
+  "星": {
+    "pinyin": "xīng",
+    "file": "mp3/星_xīng.mp3"
+  },
+  "春": {
+    "pinyin": "chūn",
+    "file": "mp3/春_chūn.mp3"
+  },
+  "是": {
+    "pinyin": "shì",
+    "file": "mp3/是_shì.mp3"
+  },
+  "晚": {
+    "pinyin": "wǎn",
+    "file": "mp3/晚_wǎn.mp3"
+  },
+  "晨": {
+    "pinyin": "chén",
+    "file": "mp3/晨_chén.mp3"
+  },
+  "普": {
+    "pinyin": "pǔ",
+    "file": "mp3/普_pǔ.mp3"
+  },
+  "晶": {
+    "pinyin": "jīng",
+    "file": "mp3/晶_jīng.mp3"
+  },
+  "暄": {
+    "pinyin": "xuān",
+    "file": "mp3/暄_xuān.mp3"
+  },
+  "暮": {
+    "pinyin": "mù",
+    "file": "mp3/暮_mù.mp3"
+  },
+  "更": {
+    "pinyin": "gēng",
+    "file": "mp3/更_gēng.mp3"
+  },
+  "月": {
+    "pinyin": "yuè",
+    "file": "mp3/月_yuè.mp3"
+  },
+  "有": {
+    "pinyin": "yǒu",
+    "file": "mp3/有_yǒu.mp3"
+  },
+  "朋": {
+    "pinyin": "péng",
+    "file": "mp3/朋_péng.mp3"
+  },
+  "期": {
+    "pinyin": "qī",
+    "file": "mp3/期_qī.mp3"
+  },
+  "木": {
+    "pinyin": "mù",
+    "file": "mp3/木_mù.mp3"
+  },
+  "未": {
+    "pinyin": "wèi",
+    "file": "mp3/未_wèi.mp3"
+  },
+  "末": {
+    "pinyin": "mò",
+    "file": "mp3/末_mò.mp3"
+  },
+  "本": {
+    "pinyin": "běn",
+    "file": "mp3/本_běn.mp3"
+  },
+  "杆": {
+    "pinyin": "gān",
+    "file": "mp3/杆_gān.mp3"
+  },
+  "杨": {
+    "pinyin": "yáng",
+    "file": "mp3/杨_yáng.mp3"
+  },
+  "杯": {
+    "pinyin": "bēi",
+    "file": "mp3/杯_bēi.mp3"
+  },
+  "松": {
+    "pinyin": "sōng",
+    "file": "mp3/松_sōng.mp3"
+  },
+  "林": {
+    "pinyin": "lín",
+    "file": "mp3/林_lín.mp3"
+  },
+  "果": {
+    "pinyin": "guǒ",
+    "file": "mp3/果_guǒ.mp3"
+  },
+  "枝": {
+    "pinyin": "zhī",
+    "file": "mp3/枝_zhī.mp3"
+  },
+  "枪": {
+    "pinyin": "qiāng",
+    "file": "mp3/枪_qiāng.mp3"
+  },
+  "柳": {
+    "pinyin": "liǔ",
+    "file": "mp3/柳_liǔ.mp3"
+  },
+  "树": {
+    "pinyin": "shù",
+    "file": "mp3/树_shù.mp3"
+  },
+  "根": {
+    "pinyin": "gēn",
+    "file": "mp3/根_gēn.mp3"
+  },
+  "桂": {
+    "pinyin": "guì",
+    "file": "mp3/桂_guì.mp3"
+  },
+  "桃": {
+    "pinyin": "táo",
+    "file": "mp3/桃_táo.mp3"
+  },
+  "桌": {
+    "pinyin": "zhuō",
+    "file": "mp3/桌_zhuō.mp3"
+  },
+  "桐": {
+    "pinyin": "tóng",
+    "file": "mp3/桐_tóng.mp3"
+  },
+  "桥": {
+    "pinyin": "qiáo",
+    "file": "mp3/桥_qiáo.mp3"
+  },
+  "梅": {
+    "pinyin": "méi",
+    "file": "mp3/梅_méi.mp3"
+  },
+  "梢": {
+    "pinyin": "shāo",
+    "file": "mp3/梢_shāo.mp3"
+  },
+  "棋": {
+    "pinyin": "qí",
+    "file": "mp3/棋_qí.mp3"
+  },
+  "森": {
+    "pinyin": "sēn",
+    "file": "mp3/森_sēn.mp3"
+  },
+  "楠": {
+    "pinyin": "nán",
+    "file": "mp3/楠_nán.mp3"
+  },
+  "楼": {
+    "pinyin": "lóu",
+    "file": "mp3/楼_lóu.mp3"
+  },
+  "橘": {
+    "pinyin": "jú",
+    "file": "mp3/橘_jú.mp3"
+  },
+  "止": {
+    "pinyin": "zhǐ",
+    "file": "mp3/止_zhǐ.mp3"
+  },
+  "步": {
+    "pinyin": "bù",
+    "file": "mp3/步_bù.mp3"
+  },
+  "武": {
+    "pinyin": "wǔ",
+    "file": "mp3/武_wǔ.mp3"
+  },
+  "段": {
+    "pinyin": "duàn",
+    "file": "mp3/段_duàn.mp3"
+  },
+  "殿": {
+    "pinyin": "diàn",
+    "file": "mp3/殿_diàn.mp3"
+  },
+  "母": {
+    "pinyin": "mǔ",
+    "file": "mp3/母_mǔ.mp3"
+  },
+  "毛": {
+    "pinyin": "máo",
+    "file": "mp3/毛_máo.mp3"
+  },
+  "气": {
+    "pinyin": "qì",
+    "file": "mp3/气_qì.mp3"
+  },
+  "水": {
+    "pinyin": "shuǐ",
+    "file": "mp3/水_shuǐ.mp3"
+  },
+  "江": {
+    "pinyin": "jiāng",
+    "file": "mp3/江_jiāng.mp3"
+  },
+  "沙": {
+    "pinyin": "shā",
+    "file": "mp3/沙_shā.mp3"
+  },
+  "河": {
+    "pinyin": "hé",
+    "file": "mp3/河_hé.mp3"
+  },
+  "油": {
+    "pinyin": "yóu",
+    "file": "mp3/油_yóu.mp3"
+  },
+  "泉": {
+    "pinyin": "quán",
+    "file": "mp3/泉_quán.mp3"
+  },
+  "波": {
+    "pinyin": "bō",
+    "file": "mp3/波_bō.mp3"
+  },
+  "泥": {
+    "pinyin": "ní",
+    "file": "mp3/泥_ní.mp3"
+  },
+  "流": {
+    "pinyin": "liú",
+    "file": "mp3/流_liú.mp3"
+  },
+  "浅": {
+    "pinyin": "qiǎn",
+    "file": "mp3/浅_qiǎn.mp3"
+  },
+  "浪": {
+    "pinyin": "làng",
+    "file": "mp3/浪_làng.mp3"
+  },
+  "海": {
+    "pinyin": "hǎi",
+    "file": "mp3/海_hǎi.mp3"
+  },
+  "深": {
+    "pinyin": "shēn",
+    "file": "mp3/深_shēn.mp3"
+  },
+  "湖": {
+    "pinyin": "hú",
+    "file": "mp3/湖_hú.mp3"
+  },
+  "源": {
+    "pinyin": "yuán",
+    "file": "mp3/源_yuán.mp3"
+  },
+  "溪": {
+    "pinyin": "xī",
+    "file": "mp3/溪_xī.mp3"
+  },
+  "潭": {
+    "pinyin": "tán",
+    "file": "mp3/潭_tán.mp3"
+  },
+  "火": {
+    "pinyin": "huǒ",
+    "file": "mp3/火_huǒ.mp3"
+  },
+  "灯": {
+    "pinyin": "dēng",
+    "file": "mp3/灯_dēng.mp3"
+  },
+  "灰": {
+    "pinyin": "huī",
+    "file": "mp3/灰_huī.mp3"
+  },
+  "灶": {
+    "pinyin": "zào",
+    "file": "mp3/灶_zào.mp3"
+  },
+  "炉": {
+    "pinyin": "lú",
+    "file": "mp3/炉_lú.mp3"
+  },
+  "炕": {
+    "pinyin": "kàng",
+    "file": "mp3/炕_kàng.mp3"
+  },
+  "炭": {
+    "pinyin": "tàn",
+    "file": "mp3/炭_tàn.mp3"
+  },
+  "烛": {
+    "pinyin": "zhú",
+    "file": "mp3/烛_zhú.mp3"
+  },
+  "煤": {
+    "pinyin": "méi",
+    "file": "mp3/煤_méi.mp3"
+  },
+  "照": {
+    "pinyin": "zhào",
+    "file": "mp3/照_zhào.mp3"
+  },
+  "燕": {
+    "pinyin": "yàn",
+    "file": "mp3/燕_yàn.mp3"
+  },
+  "爬": {
+    "pinyin": "pá",
+    "file": "mp3/爬_pá.mp3"
+  },
+  "父": {
+    "pinyin": "fù",
+    "file": "mp3/父_fù.mp3"
+  },
+  "牌": {
+    "pinyin": "pái",
+    "file": "mp3/牌_pái.mp3"
+  },
+  "牙": {
+    "pinyin": "yá",
+    "file": "mp3/牙_yá.mp3"
+  },
+  "牛": {
+    "pinyin": "niú",
+    "file": "mp3/牛_niú.mp3"
+  },
+  "牧": {
+    "pinyin": "mù",
+    "file": "mp3/牧_mù.mp3"
+  },
+  "犬": {
+    "pinyin": "quǎn",
+    "file": "mp3/犬_quǎn.mp3"
+  },
+  "狐": {
+    "pinyin": "hú",
+    "file": "mp3/狐_hú.mp3"
+  },
+  "狗": {
+    "pinyin": "gǒu",
+    "file": "mp3/狗_gǒu.mp3"
+  },
+  "狸": {
+    "pinyin": "lí",
+    "file": "mp3/狸_lí.mp3"
+  },
+  "狼": {
+    "pinyin": "láng",
+    "file": "mp3/狼_láng.mp3"
+  },
+  "猪": {
+    "pinyin": "zhū",
+    "file": "mp3/猪_zhū.mp3"
+  },
+  "猫": {
+    "pinyin": "māo",
+    "file": "mp3/猫_māo.mp3"
+  },
+  "玄": {
+    "pinyin": "xuán",
+    "file": "mp3/玄_xuán.mp3"
+  },
+  "玉": {
+    "pinyin": "yù",
+    "file": "mp3/玉_yù.mp3"
+  },
+  "王": {
+    "pinyin": "wáng",
+    "file": "mp3/王_wáng.mp3"
+  },
+  "玫": {
+    "pinyin": "méi",
+    "file": "mp3/玫_méi.mp3"
+  },
+  "现": {
+    "pinyin": "xiàn",
+    "file": "mp3/现_xiàn.mp3"
+  },
+  "琴": {
+    "pinyin": "qín",
+    "file": "mp3/琴_qín.mp3"
+  },
+  "瓜": {
+    "pinyin": "guā",
+    "file": "mp3/瓜_guā.mp3"
+  },
+  "瓦": {
+    "pinyin": "wǎ",
+    "file": "mp3/瓦_wǎ.mp3"
+  },
+  "瓶": {
+    "pinyin": "píng",
+    "file": "mp3/瓶_píng.mp3"
+  },
+  "瓷": {
+    "pinyin": "cí",
+    "file": "mp3/瓷_cí.mp3"
+  },
+  "生": {
+    "pinyin": "shēng",
+    "file": "mp3/生_shēng.mp3"
+  },
+  "田": {
+    "pinyin": "tián",
+    "file": "mp3/田_tián.mp3"
+  },
+  "电": {
+    "pinyin": "diàn",
+    "file": "mp3/电_diàn.mp3"
+  },
+  "男": {
+    "pinyin": "nán",
+    "file": "mp3/男_nán.mp3"
+  },
+  "画": {
+    "pinyin": "huà",
+    "file": "mp3/画_huà.mp3"
+  },
+  "番": {
+    "pinyin": "fān",
+    "file": "mp3/番_fān.mp3"
+  },
+  "白": {
+    "pinyin": "bái",
+    "file": "mp3/白_bái.mp3"
+  },
+  "百": {
+    "pinyin": "bǎi",
+    "file": "mp3/百_bǎi.mp3"
+  },
+  "的": {
+    "pinyin": "de",
+    "file": "mp3/的_de.mp3"
+  },
+  "皮": {
+    "pinyin": "pí",
+    "file": "mp3/皮_pí.mp3"
+  },
+  "盆": {
+    "pinyin": "pén",
+    "file": "mp3/盆_pén.mp3"
+  },
+  "盖": {
+    "pinyin": "gài",
+    "file": "mp3/盖_gài.mp3"
+  },
+  "盘": {
+    "pinyin": "pán",
+    "file": "mp3/盘_pán.mp3"
+  },
+  "目": {
+    "pinyin": "mù",
+    "file": "mp3/目_mù.mp3"
+  },
+  "盾": {
+    "pinyin": "dùn",
+    "file": "mp3/盾_dùn.mp3"
+  },
+  "眉": {
+    "pinyin": "méi",
+    "file": "mp3/眉_méi.mp3"
+  },
+  "看": {
+    "pinyin": "kàn",
+    "file": "mp3/看_kàn.mp3"
+  },
+  "眼": {
+    "pinyin": "yǎn",
+    "file": "mp3/眼_yǎn.mp3"
+  },
+  "石": {
+    "pinyin": "shí",
+    "file": "mp3/石_shí.mp3"
+  },
+  "砂": {
+    "pinyin": "shā",
+    "file": "mp3/砂_shā.mp3"
+  },
+  "砖": {
+    "pinyin": "zhuān",
+    "file": "mp3/砖_zhuān.mp3"
+  },
+  "砚": {
+    "pinyin": "yàn",
+    "file": "mp3/砚_yàn.mp3"
+  },
+  "碑": {
+    "pinyin": "bēi",
+    "file": "mp3/碑_bēi.mp3"
+  },
+  "碗": {
+    "pinyin": "wǎn",
+    "file": "mp3/碗_wǎn.mp3"
+  },
+  "禾": {
+    "pinyin": "hé",
+    "file": "mp3/禾_hé.mp3"
+  },
+  "秀": {
+    "pinyin": "xiù",
+    "file": "mp3/秀_xiù.mp3"
+  },
+  "秋": {
+    "pinyin": "qiū",
+    "file": "mp3/秋_qiū.mp3"
+  },
+  "种": {
+    "pinyin": "zhǒng",
+    "file": "mp3/种_zhǒng.mp3"
+  },
+  "秒": {
+    "pinyin": "miǎo",
+    "file": "mp3/秒_miǎo.mp3"
+  },
+  "称": {
+    "pinyin": "chēng",
+    "file": "mp3/称_chēng.mp3"
+  },
+  "程": {
+    "pinyin": "chéng",
+    "file": "mp3/程_chéng.mp3"
+  },
+  "稻": {
+    "pinyin": "dào",
+    "file": "mp3/稻_dào.mp3"
+  },
+  "穗": {
+    "pinyin": "suì",
+    "file": "mp3/穗_suì.mp3"
+  },
+  "空": {
+    "pinyin": "kōng",
+    "file": "mp3/空_kōng.mp3"
+  },
+  "窗": {
+    "pinyin": "chuāng",
+    "file": "mp3/窗_chuāng.mp3"
+  },
+  "立": {
+    "pinyin": "lì",
+    "file": "mp3/立_lì.mp3"
+  },
+  "站": {
+    "pinyin": "zhàn",
+    "file": "mp3/站_zhàn.mp3"
+  },
+  "竹": {
+    "pinyin": "zhú",
+    "file": "mp3/竹_zhú.mp3"
+  },
+  "竿": {
+    "pinyin": "gān",
+    "file": "mp3/竿_gān.mp3"
+  },
+  "笋": {
+    "pinyin": "sǔn",
+    "file": "mp3/笋_sǔn.mp3"
+  },
+  "笔": {
+    "pinyin": "bǐ",
+    "file": "mp3/笔_bǐ.mp3"
+  },
+  "笼": {
+    "pinyin": "lóng",
+    "file": "mp3/笼_lóng.mp3"
+  },
+  "筐": {
+    "pinyin": "kuāng",
+    "file": "mp3/筐_kuāng.mp3"
+  },
+  "简": {
+    "pinyin": "jiǎn",
+    "file": "mp3/简_jiǎn.mp3"
+  },
+  "箭": {
+    "pinyin": "jiàn",
+    "file": "mp3/箭_jiàn.mp3"
+  },
+  "篓": {
+    "pinyin": "lǒu",
+    "file": "mp3/篓_lǒu.mp3"
+  },
+  "米": {
+    "pinyin": "mǐ",
+    "file": "mp3/米_mǐ.mp3"
+  },
+  "粗": {
+    "pinyin": "cū",
+    "file": "mp3/粗_cū.mp3"
+  },
+  "粟": {
+    "pinyin": "sù",
+    "file": "mp3/粟_sù.mp3"
+  },
+  "粮": {
+    "pinyin": "liáng",
+    "file": "mp3/粮_liáng.mp3"
+  },
+  "粱": {
+    "pinyin": "liáng",
+    "file": "mp3/粱_liáng.mp3"
+  },
+  "级": {
+    "pinyin": "jí",
+    "file": "mp3/级_jí.mp3"
+  },
+  "纸": {
+    "pinyin": "zhǐ",
+    "file": "mp3/纸_zhǐ.mp3"
+  },
+  "线": {
+    "pinyin": "xiàn",
+    "file": "mp3/线_xiàn.mp3"
+  },
+  "细": {
+    "pinyin": "xì",
+    "file": "mp3/细_xì.mp3"
+  },
+  "绳": {
+    "pinyin": "shéng",
+    "file": "mp3/绳_shéng.mp3"
+  },
+  "缸": {
+    "pinyin": "gāng",
+    "file": "mp3/缸_gāng.mp3"
+  },
+  "网": {
+    "pinyin": "wǎng",
+    "file": "mp3/网_wǎng.mp3"
+  },
+  "羊": {
+    "pinyin": "yáng",
+    "file": "mp3/羊_yáng.mp3"
+  },
+  "美": {
+    "pinyin": "měi",
+    "file": "mp3/美_měi.mp3"
+  },
+  "翠": {
+    "pinyin": "cuì",
+    "file": "mp3/翠_cuì.mp3"
+  },
+  "老": {
+    "pinyin": "lǎo",
+    "file": "mp3/老_lǎo.mp3"
+  },
+  "耕": {
+    "pinyin": "gēng",
+    "file": "mp3/耕_gēng.mp3"
+  },
+  "耳": {
+    "pinyin": "ěr",
+    "file": "mp3/耳_ěr.mp3"
+  },
+  "肉": {
+    "pinyin": "ròu",
+    "file": "mp3/肉_ròu.mp3"
+  },
+  "背": {
+    "pinyin": "bèi",
+    "file": "mp3/背_bèi.mp3"
+  },
+  "脚": {
+    "pinyin": "jiǎo",
+    "file": "mp3/脚_jiǎo.mp3"
+  },
+  "腰": {
+    "pinyin": "yāo",
+    "file": "mp3/腰_yāo.mp3"
+  },
+  "腿": {
+    "pinyin": "tuǐ",
+    "file": "mp3/腿_tuǐ.mp3"
+  },
+  "舌": {
+    "pinyin": "shé",
+    "file": "mp3/舌_shé.mp3"
+  },
+  "舟": {
+    "pinyin": "zhōu",
+    "file": "mp3/舟_zhōu.mp3"
+  },
+  "航": {
+    "pinyin": "háng",
+    "file": "mp3/航_háng.mp3"
+  },
+  "船": {
+    "pinyin": "chuán",
+    "file": "mp3/船_chuán.mp3"
+  },
+  "艇": {
+    "pinyin": "tǐng",
+    "file": "mp3/艇_tǐng.mp3"
+  },
+  "节": {
+    "pinyin": "jié",
+    "file": "mp3/节_jié.mp3"
+  },
+  "芝": {
+    "pinyin": "zhī",
+    "file": "mp3/芝_zhī.mp3"
+  },
+  "花": {
+    "pinyin": "huā",
+    "file": "mp3/花_huā.mp3"
+  },
+  "芹": {
+    "pinyin": "qín",
+    "file": "mp3/芹_qín.mp3"
+  },
+  "苗": {
+    "pinyin": "miáo",
+    "file": "mp3/苗_miáo.mp3"
+  },
+  "茶": {
+    "pinyin": "chá",
+    "file": "mp3/茶_chá.mp3"
+  },
+  "草": {
+    "pinyin": "cǎo",
+    "file": "mp3/草_cǎo.mp3"
+  },
+  "荷": {
+    "pinyin": "hé",
+    "file": "mp3/荷_hé.mp3"
+  },
+  "莱": {
+    "pinyin": "lái",
+    "file": "mp3/莱_lái.mp3"
+  },
+  "莲": {
+    "pinyin": "lián",
+    "file": "mp3/莲_lián.mp3"
+  },
+  "菊": {
+    "pinyin": "jú",
+    "file": "mp3/菊_jú.mp3"
+  },
+  "菜": {
+    "pinyin": "cài",
+    "file": "mp3/菜_cài.mp3"
+  },
+  "菠": {
+    "pinyin": "bō",
+    "file": "mp3/菠_bō.mp3"
+  },
+  "萄": {
+    "pinyin": "táo",
+    "file": "mp3/萄_táo.mp3"
+  },
+  "萤": {
+    "pinyin": "yíng",
+    "file": "mp3/萤_yíng.mp3"
+  },
+  "葡": {
+    "pinyin": "pú",
+    "file": "mp3/葡_pú.mp3"
+  },
+  "葱": {
+    "pinyin": "cōng",
+    "file": "mp3/葱_cōng.mp3"
+  },
+  "蒜": {
+    "pinyin": "suàn",
+    "file": "mp3/蒜_suàn.mp3"
+  },
+  "虎": {
+    "pinyin": "hǔ",
+    "file": "mp3/虎_hǔ.mp3"
+  },
+  "虫": {
+    "pinyin": "chóng",
+    "file": "mp3/虫_chóng.mp3"
+  },
+  "虹": {
+    "pinyin": "hóng",
+    "file": "mp3/虹_hóng.mp3"
+  },
+  "虾": {
+    "pinyin": "xiā",
+    "file": "mp3/虾_xiā.mp3"
+  },
+  "蚁": {
+    "pinyin": "yǐ",
+    "file": "mp3/蚁_yǐ.mp3"
+  },
+  "蚂": {
+    "pinyin": "mǎ",
+    "file": "mp3/蚂_mǎ.mp3"
+  },
+  "蚕": {
+    "pinyin": "cán",
+    "file": "mp3/蚕_cán.mp3"
+  },
+  "蛇": {
+    "pinyin": "shé",
+    "file": "mp3/蛇_shé.mp3"
+  },
+  "蛾": {
+    "pinyin": "é",
+    "file": "mp3/蛾_é.mp3"
+  },
+  "蜂": {
+    "pinyin": "fēng",
+    "file": "mp3/蜂_fēng.mp3"
+  },
+  "蝶": {
+    "pinyin": "dié",
+    "file": "mp3/蝶_dié.mp3"
+  },
+  "血": {
+    "pinyin": "xuè",
+    "file": "mp3/血_xuè.mp3"
+  },
+  "衣": {
+    "pinyin": "yī",
+    "file": "mp3/衣_yī.mp3"
+  },
+  "西": {
+    "pinyin": "xī",
+    "file": "mp3/西_xī.mp3"
+  },
+  "见": {
+    "pinyin": "jiàn",
+    "file": "mp3/见_jiàn.mp3"
+  },
+  "角": {
+    "pinyin": "jiǎo",
+    "file": "mp3/角_jiǎo.mp3"
+  },
+  "言": {
+    "pinyin": "yán",
+    "file": "mp3/言_yán.mp3"
+  },
+  "让": {
+    "pinyin": "ràng",
+    "file": "mp3/让_ràng.mp3"
+  },
+  "话": {
+    "pinyin": "huà",
+    "file": "mp3/话_huà.mp3"
+  },
+  "语": {
+    "pinyin": "yǔ",
+    "file": "mp3/语_yǔ.mp3"
+  },
+  "说": {
+    "pinyin": "shuō",
+    "file": "mp3/说_shuō.mp3"
+  },
+  "谷": {
+    "pinyin": "gǔ",
+    "file": "mp3/谷_gǔ.mp3"
+  },
+  "豆": {
+    "pinyin": "dòu",
+    "file": "mp3/豆_dòu.mp3"
+  },
+  "豹": {
+    "pinyin": "bào",
+    "file": "mp3/豹_bào.mp3"
+  },
+  "贝": {
+    "pinyin": "bèi",
+    "file": "mp3/贝_bèi.mp3"
+  },
+  "走": {
+    "pinyin": "zǒu",
+    "file": "mp3/走_zǒu.mp3"
+  },
+  "起": {
+    "pinyin": "qǐ",
+    "file": "mp3/起_qǐ.mp3"
+  },
+  "足": {
+    "pinyin": "zú",
+    "file": "mp3/足_zú.mp3"
+  },
+  "跑": {
+    "pinyin": "pǎo",
+    "file": "mp3/跑_pǎo.mp3"
+  },
+  "路": {
+    "pinyin": "lù",
+    "file": "mp3/路_lù.mp3"
+  },
+  "跳": {
+    "pinyin": "tiào",
+    "file": "mp3/跳_tiào.mp3"
+  },
+  "身": {
+    "pinyin": "shēn",
+    "file": "mp3/身_shēn.mp3"
+  },
+  "车": {
+    "pinyin": "chē",
+    "file": "mp3/车_chē.mp3"
+  },
+  "轮": {
+    "pinyin": "lún",
+    "file": "mp3/轮_lún.mp3"
+  },
+  "轻": {
+    "pinyin": "qīng",
+    "file": "mp3/轻_qīng.mp3"
+  },
+  "辰": {
+    "pinyin": "chén",
+    "file": "mp3/辰_chén.mp3"
+  },
+  "边": {
+    "pinyin": "biān",
+    "file": "mp3/边_biān.mp3"
+  },
+  "近": {
+    "pinyin": "jìn",
+    "file": "mp3/近_jìn.mp3"
+  },
+  "这": {
+    "pinyin": "zhè",
+    "file": "mp3/这_zhè.mp3"
+  },
+  "远": {
+    "pinyin": "yuǎn",
+    "file": "mp3/远_yuǎn.mp3"
+  },
+  "那": {
+    "pinyin": "nà",
+    "file": "mp3/那_nà.mp3"
+  },
+  "酒": {
+    "pinyin": "jiǔ",
+    "file": "mp3/酒_jiǔ.mp3"
+  },
+  "里": {
+    "pinyin": "lǐ",
+    "file": "mp3/里_lǐ.mp3"
+  },
+  "重": {
+    "pinyin": "zhòng",
+    "file": "mp3/重_zhòng.mp3"
+  },
+  "金": {
+    "pinyin": "jīn",
+    "file": "mp3/金_jīn.mp3"
+  },
+  "针": {
+    "pinyin": "zhēn",
+    "file": "mp3/针_zhēn.mp3"
+  },
+  "钟": {
+    "pinyin": "zhōng",
+    "file": "mp3/钟_zhōng.mp3"
+  },
+  "钢": {
+    "pinyin": "gāng",
+    "file": "mp3/钢_gāng.mp3"
+  },
+  "铁": {
+    "pinyin": "tiě",
+    "file": "mp3/铁_tiě.mp3"
+  },
+  "铜": {
+    "pinyin": "tóng",
+    "file": "mp3/铜_tóng.mp3"
+  },
+  "银": {
+    "pinyin": "yín",
+    "file": "mp3/银_yín.mp3"
+  },
+  "锤": {
+    "pinyin": "chuí",
+    "file": "mp3/锤_chuí.mp3"
+  },
+  "锯": {
+    "pinyin": "jù",
+    "file": "mp3/锯_jù.mp3"
+  },
+  "镜": {
+    "pinyin": "jìng",
+    "file": "mp3/镜_jìng.mp3"
+  },
+  "长": {
+    "pinyin": "cháng",
+    "file": "mp3/长_cháng.mp3"
+  },
+  "门": {
+    "pinyin": "mén",
+    "file": "mp3/门_mén.mp3"
+  },
+  "闪": {
+    "pinyin": "shǎn",
+    "file": "mp3/闪_shǎn.mp3"
+  },
+  "问": {
+    "pinyin": "wèn",
+    "file": "mp3/问_wèn.mp3"
+  },
+  "闰": {
+    "pinyin": "rùn",
+    "file": "mp3/闰_rùn.mp3"
+  },
+  "间": {
+    "pinyin": "jiān",
+    "file": "mp3/间_jiān.mp3"
+  },
+  "闻": {
+    "pinyin": "wén",
+    "file": "mp3/闻_wén.mp3"
+  },
+  "阁": {
+    "pinyin": "gé",
+    "file": "mp3/阁_gé.mp3"
+  },
+  "阳": {
+    "pinyin": "yáng",
+    "file": "mp3/阳_yáng.mp3"
+  },
+  "阴": {
+    "pinyin": "yīn",
+    "file": "mp3/阴_yīn.mp3"
+  },
+  "阶": {
+    "pinyin": "jiē",
+    "file": "mp3/阶_jiē.mp3"
+  },
+  "陋": {
+    "pinyin": "lòu",
+    "file": "mp3/陋_lòu.mp3"
+  },
+  "隔": {
+    "pinyin": "gé",
+    "file": "mp3/隔_gé.mp3"
+  },
+  "雀": {
+    "pinyin": "què",
+    "file": "mp3/雀_què.mp3"
+  },
+  "雁": {
+    "pinyin": "yàn",
+    "file": "mp3/雁_yàn.mp3"
+  },
+  "雨": {
+    "pinyin": "yǔ",
+    "file": "mp3/雨_yǔ.mp3"
+  },
+  "雪": {
+    "pinyin": "xuě",
+    "file": "mp3/雪_xuě.mp3"
+  },
+  "雷": {
+    "pinyin": "léi",
+    "file": "mp3/雷_léi.mp3"
+  },
+  "雾": {
+    "pinyin": "wù",
+    "file": "mp3/雾_wù.mp3"
+  },
+  "震": {
+    "pinyin": "zhèn",
+    "file": "mp3/震_zhèn.mp3"
+  },
+  "霜": {
+    "pinyin": "shuāng",
+    "file": "mp3/霜_shuāng.mp3"
+  },
+  "霞": {
+    "pinyin": "xiá",
+    "file": "mp3/霞_xiá.mp3"
+  },
+  "露": {
+    "pinyin": "lù",
+    "file": "mp3/露_lù.mp3"
+  },
+  "霸": {
+    "pinyin": "bà",
+    "file": "mp3/霸_bà.mp3"
+  },
+  "面": {
+    "pinyin": "miàn",
+    "file": "mp3/面_miàn.mp3"
+  },
+  "风": {
+    "pinyin": "fēng",
+    "file": "mp3/风_fēng.mp3"
+  },
+  "飘": {
+    "pinyin": "piāo",
+    "file": "mp3/飘_piāo.mp3"
+  },
+  "食": {
+    "pinyin": "shí",
+    "file": "mp3/食_shí.mp3"
+  },
+  "饭": {
+    "pinyin": "fàn",
+    "file": "mp3/饭_fàn.mp3"
+  },
+  "首": {
+    "pinyin": "shǒu",
+    "file": "mp3/首_shǒu.mp3"
+  },
+  "香": {
+    "pinyin": "xiāng",
+    "file": "mp3/香_xiāng.mp3"
+  },
+  "马": {
+    "pinyin": "mǎ",
+    "file": "mp3/马_mǎ.mp3"
+  },
+  "驴": {
+    "pinyin": "lǘ",
+    "file": "mp3/驴_lǘ.mp3"
+  },
+  "骡": {
+    "pinyin": "luó",
+    "file": "mp3/骡_luó.mp3"
+  },
+  "骨": {
+    "pinyin": "gǔ",
+    "file": "mp3/骨_gǔ.mp3"
+  },
+  "高": {
+    "pinyin": "gāo",
+    "file": "mp3/高_gāo.mp3"
+  },
+  "鱼": {
+    "pinyin": "yú",
+    "file": "mp3/鱼_yú.mp3"
+  },
+  "鲨": {
+    "pinyin": "shā",
+    "file": "mp3/鲨_shā.mp3"
+  },
+  "鸟": {
+    "pinyin": "niǎo",
+    "file": "mp3/鸟_niǎo.mp3"
+  },
+  "鸡": {
+    "pinyin": "jī",
+    "file": "mp3/鸡_jī.mp3"
+  },
+  "鸭": {
+    "pinyin": "yā",
+    "file": "mp3/鸭_yā.mp3"
+  },
+  "鹅": {
+    "pinyin": "é",
+    "file": "mp3/鹅_é.mp3"
+  },
+  "鹊": {
+    "pinyin": "què",
+    "file": "mp3/鹊_què.mp3"
+  },
+  "鹤": {
+    "pinyin": "hè",
+    "file": "mp3/鹤_hè.mp3"
+  },
+  "鹰": {
+    "pinyin": "yīng",
+    "file": "mp3/鹰_yīng.mp3"
+  },
+  "鹿": {
+    "pinyin": "lù",
+    "file": "mp3/鹿_lù.mp3"
+  },
+  "麦": {
+    "pinyin": "mài",
+    "file": "mp3/麦_mài.mp3"
+  },
+  "鼎": {
+    "pinyin": "dǐng",
+    "file": "mp3/鼎_dǐng.mp3"
+  },
+  "鼓": {
+    "pinyin": "gǔ",
+    "file": "mp3/鼓_gǔ.mp3"
+  },
+  "鼠": {
+    "pinyin": "shǔ",
+    "file": "mp3/鼠_shǔ.mp3"
+  },
+  "鼻": {
+    "pinyin": "bí",
+    "file": "mp3/鼻_bí.mp3"
+  },
+  "齿": {
+    "pinyin": "chǐ",
+    "file": "mp3/齿_chǐ.mp3"
+  },
+  "龙": {
+    "pinyin": "lóng",
+    "file": "mp3/龙_lóng.mp3"
+  },
+  "龟": {
+    "pinyin": "guī",
+    "file": "mp3/龟_guī.mp3"
+  }
+}
